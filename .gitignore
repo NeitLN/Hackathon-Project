@@ -1,0 +1,10 @@
+# Devnet keypairs — never commit private key material
+spike-i0/keys/
+*.key
+*.pem
+.env
+.env.*
+
+# Dependencies
+spike-i0/node_modules/
+node_modules/
