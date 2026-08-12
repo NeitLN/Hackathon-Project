@@ -51,7 +51,7 @@ Ranking is **stable under both official rubrics**, so open question U2 does not 
 
 ## Conditions attached to the GO (satisfy within 48h)
 1. Confirm the real submission deadline (**U4**) and select the matching 24/48/72h plan.
-2. Confirm one developer can wire wallet + Squads 2-of-2 + an RPC simulation call (**U5**); if not, drop to the pre-configured-vault variant.
+2. Confirm one developer can wire wallet + Squads 2-of-3 + an RPC simulation call (**U5**); if not, drop to the pre-configured-vault variant.
 3. Register **Track 1 — Best Product & Business**, theme **Consumer dApps**.
 
 ## Open unknowns (do not fabricate)
